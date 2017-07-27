@@ -1,4 +1,4 @@
-go etc hsots
+go etc hosts
 =======
 Simple docker service discovery, will add docker container's names to your hosts' /etc/hosts file
 
